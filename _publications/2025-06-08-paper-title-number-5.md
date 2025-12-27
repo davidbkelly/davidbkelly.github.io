@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Coupling a 3D Finite-Volume Left Ventricular Model with 0D Lumped Parameter Circulation using OpenFOAM"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+#permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'A coupled 3D-0D compuatational framework for cardiac modelling in OpenFOAM'
+date: 2024-02-23
+venue: 'Bioengineering in Ireland, 2026'
+paperurl: 'https://academicpages.github.io/files/BINI_Abstract_DavidKelly_2026.pdf'
+citation: 'Kelly, David. (2026). &quot;Coupling a 3D Finite-Volume Left Ventricular Model with 0D Lumped Parameter Circulation using OpenFOAM.&quot; <i>Bioengineering in Ireland</i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This work presents the development of a coupled three-dimensional finite-volume left ventricular model and a zero-dimensional lumped parameter circulation implemented in OpenFOAM. The framework enables dynamic exchange of pressure, flow, and volume between the cardiac and circulatory domains, providing physiologically consistent boundary conditions for high-fidelity ventricular simulations. The approach forms a foundation for future human–porcine cardiac modelling aimed at studying haemodynamic behaviour in xenotransplantation contexts.
