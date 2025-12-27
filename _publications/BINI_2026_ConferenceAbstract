@@ -11,3 +11,4 @@ citation: 'Kelly, David B. (2026). &quot;Coupling a 3D Finite-Volume Left Ventri
 ---
 
 This work presents the development of a coupled three-dimensional finite-volume left ventricular model and a zero-dimensional lumped parameter circulation implemented in OpenFOAM. The framework enables dynamic exchange of pressure, flow, and volume between the cardiac and circulatory domains, providing physiologically consistent boundary conditions for high-fidelity ventricular simulations. The approach forms a foundation for future human–porcine cardiac modelling aimed at studying haemodynamic behaviour in xenotransplantation contexts.
+
