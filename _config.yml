@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "David Kelly"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student"
+  location         : "Dublin, Ireland"
+  employer         : "School of Mechanical and Materials Engineering, University College Dublin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "david.kelly15@ucdconnect.ie" 
 
   # Academic websites
   academia         : # URL
