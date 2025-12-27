@@ -6,7 +6,7 @@ category: conferences
 excerpt: 'A coupled 3D-0D compuatational framework for cardiac modelling in OpenFOAM'
 date: 2024-02-23
 venue: 'Bioengineering in Ireland, 2026'
-paperurl: 'https://academicpages.github.io/files/BINI_Abstract_DavidKelly_2026.pdf'
+paperurl: 'https://davidbkelly.github.io/files/BINI_Abstract_DavidKelly_2026.pdf'
 citation: 'Kelly, David. (2026). &quot;Coupling a 3D Finite-Volume Left Ventricular Model with 0D Lumped Parameter Circulation using OpenFOAM.&quot; <i>Bioengineering in Ireland</i>.'
 ---
 
