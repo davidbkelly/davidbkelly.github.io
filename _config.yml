@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "David Kelly"
+site_theme               : "sunrise" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "David B. Kelly"
 title_separator          : "-"
-name                     : &name "David Kelly"
-description              : &description "David Kelly's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "David B. Kelly"
+description              : &description "David B. Kelly's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://davidbkelly.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "davidbkelly"
 author:
   # Biographic information
   avatar           : "U030925700751049428.JPG"
-  name             : "David Kelly"
+  name             : "David B. Kelly"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
   location         : "Dublin, Ireland"
