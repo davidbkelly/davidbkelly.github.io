@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Physics for Engineers I"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergradute course"
+permalink: /teaching/2025-spring-teaching-2
+venue: "University College Dublin, School of Physics"
+date: 2025-01-01
+location: "Dublin, Ireland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Lab demonstrator for a first-year undergraduate introductory physics module for engineering students, including the assessment and grading of laboratory reports.
