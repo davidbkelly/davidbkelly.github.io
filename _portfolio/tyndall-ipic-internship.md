@@ -1,6 +1,6 @@
 ---
 title: "Summer Internship: Biophotonics Research at Tyndall National Institute (IPIC)"
-excerpt: "12-week summer research internship in the Biophotonics group at Tyndall National Institute (IPIC), focusing on turbidity correction for Raman spectroscopy in diffusive biological media.<br/><a href='https://davidbkelly.github.io/files/David Kelly Poster.pdf'>View research poster (PDF)</a>"
+excerpt: "12-week summer research internship in the Biophotonics group at Tyndall National Institute (IPIC), focusing on turbidity correction for Raman spectroscopy in diffusive biological media.
 collection: portfolio
 ---
 
