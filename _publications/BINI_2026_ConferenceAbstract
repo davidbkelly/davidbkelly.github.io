@@ -1,7 +1,7 @@
 ---
 title: "Coupling a 3D Finite-Volume Left Ventricular Model with 0D Lumped Parameter Circulation using OpenFOAM"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publications/2026-02-23-coupling-3d-finite-volume-left-ventricular-model-0d-lumped-parameter-openfoam/
 excerpt: 'A coupled 3D–0D computational framework for cardiac modelling in OpenFOAM.'
 date: 2026-02-23
