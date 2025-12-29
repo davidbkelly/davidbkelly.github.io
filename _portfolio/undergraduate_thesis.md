@@ -1,7 +1,6 @@
 ---
 title: "Final Year Thesis: Gamma-Frequency Resonance in Networks of Neurons"
 excerpt: "Final-year BSc thesis investigating gamma-band (30–100 Hz) resonance and synchrony in spiking neural networks using Izhikevich neurons and mean-field reduction."
-slidesurl: "https://davidbkelly.github.io/files/Thesis_Final_Presentation_DK.pdf"
 collection: portfolio
 ---
 
