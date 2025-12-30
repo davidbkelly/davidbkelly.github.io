@@ -1,6 +1,7 @@
 ---
 title: "From Windkessels to Closed-Loop Circulation: Building and Verifying 0D Models for Cardiac Simulation in OpenFOAM"
 date: 2025-12-30
+excerpt: "This post describes the development and verification of Windkessel-based 0D cardiovascular models and their coupling to a 3D left ventricle simulation in OpenFOAM. A minimal closed-loop system is introduced, with numerical verification based on volume conservation between the 0D compliance chamber and the 3D ventricle."
 permalink: /posts/2012/08/from-windkessels-to-closed-loop-circulation-building-and-verifying-0d-models-for-cardiac-simulation/
 tags:
   - OpenFOAM
