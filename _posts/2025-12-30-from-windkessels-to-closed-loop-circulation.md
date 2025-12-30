@@ -59,7 +59,7 @@ Across parameter variations, excellent agreement was observed, providing strong 
 
 Having established and verified this minimal closed-loop system, the next step is to extend the framework to a more complete circulation. This involves adding further systemic and pulmonary components and embedding the 3D ventricle within a fully closed-loop lumped-parameter network.
 
-![Towards a fully closed 0D–3D circulation](/images/LPM_LV_image.png)
+![Towards a fully closed 0D–3D circulation](/images/LPM_LV_Image.png)
 
 By building the system incrementally—verifying individual components, introducing closed-loop feedback, and then expanding the network—the aim is to develop a robust and extensible 0D–3D coupling framework suitable for more realistic cardiac simulations.
 
