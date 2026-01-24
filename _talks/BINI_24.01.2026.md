@@ -7,6 +7,7 @@ venue: "Hodson Bay Hotel"
 date: 2026-01-24
 location: "Athlone, Ireland"
 slidesurl: "https://davidbkelly.github.io/files/DavidKelly_BINI_24.01.2026.pptx"
+slidesurl: "https://davidbkelly.github.io/files/DavidKelly_BINI_24.01.2026.pdf"
 excerpt: "Presentation delivered at the Bioengineering in Ireland Conference 2026."
 ---
 
