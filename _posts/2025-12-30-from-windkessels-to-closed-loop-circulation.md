@@ -71,6 +71,6 @@ By building the system incrementally—verifying individual components, introduc
 If you’d like more details about this work, or are interested in discussing 0D–3D coupling, Windkessel models, or cardiovascular simulation in OpenFOAM, feel free to get in touch.
 
 - 📧 **Email:** [david.kelly15@ucdconnect.ie](mailto:david.kelly15@ucdconnect.ie)
-- 🔗 **LinkedIn:** [linkedin.com/in/david-kelly]([https://www.linkedin.com/in/david-kelly-231162296])
+- 🔗 **LinkedIn:** [linkedin.com/in/david-kelly](https://www.linkedin.com/in/david-kelly-231162296)
 
 I’m always happy to chat about modelling approaches, numerical verification, or potential collaborations.
